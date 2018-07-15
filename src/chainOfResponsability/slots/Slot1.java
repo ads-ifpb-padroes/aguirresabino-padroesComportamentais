@@ -1,4 +1,4 @@
-package chainOfResponsability.metodos;
+package chainOfResponsability.slots;
 
 import java.math.BigDecimal;
 

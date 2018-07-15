@@ -1,6 +1,8 @@
-package main;
+package chainOfResponsability.main;
 
-import chainOfResponsability.metodos.*;
+import chainOfResponsability.slots.*;
+import chainOfResponsability.model.Maquina;
+import chainOfResponsability.model.Produto;
 
 import java.math.BigDecimal;
 import java.util.Locale;

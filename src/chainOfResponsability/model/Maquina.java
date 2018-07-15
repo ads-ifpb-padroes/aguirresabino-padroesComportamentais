@@ -1,4 +1,6 @@
-package chainOfResponsability.metodos;
+package chainOfResponsability.model;
+
+import chainOfResponsability.slots.SlotChain;
 
 import java.math.BigDecimal;
 
